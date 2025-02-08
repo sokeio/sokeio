@@ -36,7 +36,17 @@ $ php artisan migrate
 ```
 
 
-email contact: nguyenvanhaudev@gmail.com
+## Contact US:
+
+**Website**: https://sokeio.com/
+
+**Email**: haustartup@gmail.com
+
+**Discord**: https://discord.gg/5XePqYxyjm
+
+**Facebook**: https://www.facebook.com/groups/sokeio
+
+**Youtube**: https://www.youtube.com/@DevHau
 
 ## License
 
