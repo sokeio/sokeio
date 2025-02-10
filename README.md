@@ -35,6 +35,8 @@ $ php artisan migrate
 
 ```
 
+Video Installation Guide : https://www.youtube.com/watch?v=orP3dXTc5D4
+
 
 ## Contact US:
 
